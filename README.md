@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saif6767
 - 👀 I’m interested in Web Devloper
-- 🌱 I’m currently learning Full Stack Devloper
+- 🌱 I’m currently learning Full MERN Stack Devloper
 
 
 <!---
